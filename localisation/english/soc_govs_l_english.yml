@@ -1,0 +1,15 @@
+﻿#Uncomment the appropriate language for the file.
+#﻿l_braz_por:
+l_english:
+#l_french:
+#l_german:
+#l_polish:
+#l_russian:
+#l_spanish:
+
+ ####################################
+ # Governments
+ ####################################
+
+ soc_gov_workercorporation:0 "Worker Corporation"
+ soc_gov_workercorporation_desc:0 "This government is theoretically no government at all, as all the functions of the state have been subsumed into a consortium of decentralized worker corporations. Each such corporation elects an officer to a steering committee that executes policy for the common good."

@@ -1,0 +1,12 @@
+# Start Screens for New Governments
+
+# Default catch-all
+part = {
+	location = 1
+	localization = "SOC_START_SCREEN_PART_TWO_WORKERCORPORATION"
+
+	trigger = {
+		has_government = soc_gov_workercorporation
+		NOT = { has_country_flag = custom_start_screen }
+	}
+}
