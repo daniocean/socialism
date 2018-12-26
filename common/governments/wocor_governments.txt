@@ -1,5 +1,5 @@
 # Worker Corporation
-soc_gov_workercorporation = {
+wocor_gov_workercorporation = {
 	ruler_title = RT_CHAIRMAN
 	ruler_title_female = RT_CHAIRWOMAN
 
@@ -18,7 +18,7 @@ soc_gov_workercorporation = {
 
 	possible = {
 		has_authority = auth_corporate
-		has_valid_civic = soc_civic_workers_councils
+		has_valid_civic = wocor_civic_workers_councils
 		has_ethic = ethic_egalitarian
 		OR = {
 			has_ethic = ethic_materialist

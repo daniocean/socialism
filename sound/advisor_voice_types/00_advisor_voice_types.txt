@@ -350,7 +350,7 @@ l_the_worker = {
 			add = 8
 			OR = {
 				has_valid_civic = civic_shared_burden
-				has_valid_civic = soc_civic_workers_councils
+				has_valid_civic = wocor_civic_workers_councils
 			}
 		}
 	}

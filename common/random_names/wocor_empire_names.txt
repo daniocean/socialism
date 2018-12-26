@@ -5,14 +5,14 @@ empire_name_format = {
 		factor = 0
 		modifier = {
 			add = 25
-			has_government = "soc_gov_workercorporation"
+			has_government = "wocor_gov_workercorporation"
 			is_pirate = no
 			is_primitive = no
 		}
 	}
-	format = "format.soc_workercorporation.1"
+	format = "format.wocor_workercorporation.1"
 	noun = "[This.Capital.System.GetName]"
-	prefix_format = "[This.Capital.System.GetName] <soc_labor_org>"
+	prefix_format = "[This.Capital.System.GetName] <wocor_labor_org>"
 	# Human Empire
 }
 
@@ -21,14 +21,14 @@ empire_name_format = {
 		factor = 0
 		modifier = {
 			add = 25
-			has_government = "soc_gov_workercorporation"
+			has_government = "wocor_gov_workercorporation"
 			is_pirate = no
 			is_primitive = no
 		}
 	}
-	format = "format.soc_workercorporation.2"
+	format = "format.wocor_workercorporation.2"
 	noun = "[This.Capital.System.GetName]"
-	prefix_format = "[This.Capital.System.GetName] <soc_labor_orgs>"
+	prefix_format = "[This.Capital.System.GetName] <wocor_labor_orgs>"
 	# Sol Empire
 }
 
@@ -37,14 +37,14 @@ empire_name_format = {
 		factor = 0
 		modifier = {
 			add = 25
-			has_government = "soc_gov_workercorporation"
+			has_government = "wocor_gov_workercorporation"
 			is_pirate = no
 			is_primitive = no
 		}
 	}
-	format = "format.soc_workercorporation.3"
+	format = "format.wocor_workercorporation.3"
 	noun = "[This.Capital.GetName]"
-	prefix_format = "[This.Capital.GetName] <soc_labor_orgs>"
+	prefix_format = "[This.Capital.GetName] <wocor_labor_orgs>"
 	# Earth Empire
 }
 
@@ -53,13 +53,13 @@ empire_name_format = {
 		factor = 0
 		modifier = {
 			add = 25
-			has_government = "soc_gov_workercorporation"
+			has_government = "wocor_gov_workercorporation"
 			is_pirate = no
 			is_primitive = no
 		}
 	}
-	format = "format.soc_workercorporation.4"
+	format = "format.wocor_workercorporation.4"
 	noun = "[This.Capital.GetName]"
-	prefix_format = "[This.Capital.GetName] <soc_labor_org>"
+	prefix_format = "[This.Capital.GetName] <wocor_labor_org>"
 	# Earth Empire
 }

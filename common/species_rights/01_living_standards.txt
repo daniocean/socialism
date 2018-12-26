@@ -264,7 +264,7 @@ living_standard_shared_burden = {
 		from = {
 			OR = {
 				has_valid_civic = civic_shared_burden
-				has_valid_civic = soc_civic_workers_councils
+				has_valid_civic = wocor_civic_workers_councils
 			}
 		}
 	}
@@ -443,7 +443,7 @@ living_standard_academic_privilege = {
 			from = {
 				OR = {
 					has_valid_civic = civic_shared_burden
-					has_valid_civic = soc_civic_workers_councils
+					has_valid_civic = wocor_civic_workers_councils
 				}
 			}
 		}
@@ -555,7 +555,7 @@ living_standard_good = {
 			from = {
 				OR = {
 					has_valid_civic = civic_shared_burden
-					has_valid_civic = soc_civic_workers_councils
+					has_valid_civic = wocor_civic_workers_councils
 				}
 			}
 		}
@@ -672,7 +672,7 @@ living_standard_normal = {
 			from = {
 				OR = {
 					has_valid_civic = civic_shared_burden
-					has_valid_civic = soc_civic_workers_councils
+					has_valid_civic = wocor_civic_workers_councils
 				}
 			}
 		}
@@ -742,7 +742,7 @@ living_standard_stratified = {
 			from = {
 				OR = {
 					has_valid_civic = civic_shared_burden
-					has_valid_civic = soc_civic_workers_councils
+					has_valid_civic = wocor_civic_workers_councils
 				}
 			}
 		}
@@ -813,7 +813,7 @@ living_standard_subsistence = {
 			from = {
 				OR = {
 					has_valid_civic = civic_shared_burden
-					has_valid_civic = soc_civic_workers_councils
+					has_valid_civic = wocor_civic_workers_councils
 				}
 			}
 		}

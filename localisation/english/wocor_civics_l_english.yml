@@ -1,0 +1,16 @@
+﻿#Uncomment the appropriate language for the file.
+#﻿l_braz_por:
+l_english:
+#l_french:
+#l_german:
+#l_polish:
+#l_russian:
+#l_spanish:
+
+####################################
+# Civics - Corporate Authority
+####################################
+
+ wocor_civic_workers_councils:0 "Workers' Councils"
+ wocor_civic_workers_councils_desc:0 "Trade unions, democratic workplaces, and cooperatives are a vital part of civil society and an integral part of government."
+ civic_tooltip_wocor_civic_workers_councils_effects:0 "Allows §Y$living_standard_shared_burden$§! Living Standard, under which all £pop£ Pops have moderate £consumer_goods£ §Y$consumer_goods$§! Upkeep regardless of §YStrata§!\nDisables the use of most other §YLiving Standards§!\nIncreases §Y$MOD_PLANET_STABILITY_ADD$§! by §G+5§!\n§YPolitical Power§! of workers and specialists increased by §Y40%§! and §Y20%§! respectively"

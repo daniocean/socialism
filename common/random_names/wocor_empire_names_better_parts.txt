@@ -5,16 +5,16 @@
 ### SPECIAL
 
 # Worker Corporation
-# format.soc_workercorporation.1: "<soc_labor_type> <soc_labor_per>' <soc_labor_org> of [This.Capital.System.GetName]"
-# format.soc_workercorporation.2: "<soc_labor_desc> <soc_labor_per>' <soc_labor_orgs> of [This.Capital.System.GetName]"
-# format.soc_workercorporation.3: "<soc_labor_desc> <soc_labor_per>' <soc_labor_orgs> of [This.Capital.GetName]"
-# format.soc_workercorporation.4: "<soc_labor_type> <soc_labor_per>' <soc_labor_org> of [This.Capital.GetName]"
+# format.wocor_workercorporation.1: "<wocor_labor_type> <wocor_labor_per>' <wocor_labor_org> of [This.Capital.System.GetName]"
+# format.wocor_workercorporation.2: "<wocor_labor_desc> <wocor_labor_per>' <wocor_labor_orgs> of [This.Capital.System.GetName]"
+# format.wocor_workercorporation.3: "<wocor_labor_desc> <wocor_labor_per>' <wocor_labor_orgs> of [This.Capital.GetName]"
+# format.wocor_workercorporation.4: "<wocor_labor_type> <wocor_labor_per>' <wocor_labor_org> of [This.Capital.GetName]"
 
 # Note about weighting: Essentially, longer words are less likely to come up as these names can be really long!
 
 # Labor Personal
 empire_name_parts_list = {
-	key = "soc_labor_per"
+	key = "wocor_labor_per"
 	parts = {
 		"Workers" = 2
 		"Laborers" = 2
@@ -27,7 +27,7 @@ empire_name_parts_list = {
 
 # Labor Descriptor
 empire_name_parts_list = {
-	key = "soc_labor_desc"
+	key = "wocor_labor_desc"
 	parts = {
 		"United" = 2
 		"Federated" = 2
@@ -38,7 +38,7 @@ empire_name_parts_list = {
 
 # Labor Organization (plural)
 empire_name_parts_list = {
-	key = "soc_labor_orgs"
+	key = "wocor_labor_orgs"
 	parts = {
 		"Unions" = 2
 		"Guilds" = 2
@@ -49,7 +49,7 @@ empire_name_parts_list = {
 
 # Labor Organizational Type
 empire_name_parts_list = {
-	key = "soc_labor_type"
+	key = "wocor_labor_type"
 	parts = {
 		"Industrial" = 2
 		"Proletarian" = 1
@@ -60,7 +60,7 @@ empire_name_parts_list = {
 
 # Labor Organization
 empire_name_parts_list = {
-	key = "soc_labor_org"
+	key = "wocor_labor_org"
 	parts = {
 		"Syndicate" = 2
 		"League" = 2

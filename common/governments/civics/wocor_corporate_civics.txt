@@ -1,5 +1,5 @@
 #Workers' Councils
-soc_civic_workers_councils = {
+wocor_civic_workers_councils = {
 	potential = { authority = { value = auth_corporate } }
 	random_weight = { base = 1 }
 	possible = {
@@ -21,5 +21,5 @@ soc_civic_workers_councils = {
 		pop_cat_specialist_political_power = 0.2
 	}
 
-	description = "civic_tooltip_soc_civic_workers_councils_effects"
+	description = "civic_tooltip_wocor_civic_workers_councils_effects"
 }

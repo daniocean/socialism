@@ -13,7 +13,7 @@ building_luxury_residence = {
 			is_regular_empire = yes
 			NOR = {
 				has_valid_civic = civic_shared_burden
-				has_valid_civic = soc_civic_workers_councils
+				has_valid_civic = wocor_civic_workers_councils
 			}
 		}
 	}
@@ -82,7 +82,7 @@ building_paradise_dome = {
 			is_regular_empire = yes
 			NOR = {
 				has_valid_civic = civic_shared_burden
-				has_valid_civic = soc_civic_workers_councils
+				has_valid_civic = wocor_civic_workers_councils
 			}
 		}
 	}
@@ -159,7 +159,7 @@ building_communal_housing = {
 			is_regular_empire = yes
 			OR = {
 				has_valid_civic = civic_shared_burden
-				has_valid_civic = soc_civic_workers_councils
+				has_valid_civic = wocor_civic_workers_councils
 			}
 		}
 	}
@@ -229,7 +229,7 @@ building_communal_housing_large = {
 			is_regular_empire = yes
 			OR = {
 				has_valid_civic = civic_shared_burden
-				has_valid_civic = soc_civic_workers_councils
+				has_valid_civic = wocor_civic_workers_councils
 			}
 		}
 	}
@@ -243,7 +243,7 @@ building_communal_housing_large = {
 			is_regular_empire = yes
 			OR = {
 				has_valid_civic = civic_shared_burden
-				has_valid_civic = soc_civic_workers_councils
+				has_valid_civic = wocor_civic_workers_councils
 			}
 		}
 	}
@@ -286,7 +286,7 @@ building_communal_housing_large = {
 	show_tech_unlock_if = {
 		OR = {
 			has_valid_civic = civic_shared_burden
-			has_valid_civic = soc_civic_workers_councils
+			has_valid_civic = wocor_civic_workers_councils
 		}
 	}
 

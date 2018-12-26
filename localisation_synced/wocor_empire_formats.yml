@@ -1,0 +1,12 @@
+﻿l_default:
+
+ #### CUSTOM/MODDED
+
+ # Worker Corporation
+ #format.wocor_workercorporation.1: "<wocor_labor_per_desc> [This.GetSpeciesAdj] <wocor_labor_per>' <wocor_labor_org>"
+ #format.wocor_workercorporation.2: "<wocor_labor_type> <wocor_labor_per>' <wocor_labor_org> of [This.Capital.System.GetName]"
+ #format.wocor_workercorporation.3: "<wocor_labor_type> <wocor_labor_per>' <wocor_labor_org> of [This.Capital.GetName]"
+ format.wocor_workercorporation.1: "<wocor_labor_type> <wocor_labor_per>' <wocor_labor_org> of [This.Capital.System.GetName]"
+ format.wocor_workercorporation.2: "<wocor_labor_desc> <wocor_labor_per>' <wocor_labor_orgs> of [This.Capital.System.GetName]"
+ format.wocor_workercorporation.3: "<wocor_labor_desc> <wocor_labor_per>' <wocor_labor_orgs> of [This.Capital.GetName]"
+ format.wocor_workercorporation.4: "<wocor_labor_type> <wocor_labor_per>' <wocor_labor_org> of [This.Capital.GetName]"
